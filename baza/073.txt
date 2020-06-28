@@ -1,0 +1,6 @@
+﻿X1000
+Wzrost stosunku S/N na wejściu demodulatora powoduje: 
+Wzrost P(c) 
+Nie wpływa na P(c). 
+Wzrost P(e). 
+Nie wpływa na P(e). 

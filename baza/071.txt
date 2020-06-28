@@ -1,0 +1,6 @@
+﻿X0001
+Symbolowa stopa błędów (SER) jest równa bitowej stopie błędów (BER), gdy:
+Każdy symbol zawiera błędne bity. 
+Każdy symbol zawiera jeden błędny bit. 
+Liczba symboli jest równa połowie liczby nadanych bitów. 
+Błędne symbole zawierają wyłącznie błędne bity. 

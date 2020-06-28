@@ -1,0 +1,6 @@
+﻿X1000
+[img]60.jpg[/img]
+do demodulacji niekoherentnej, np. sygnałów ASK 
+do modulacji w schemacie ASK 
+do demodulacji sygnałów PSK 
+do demodulacji koherentnej 

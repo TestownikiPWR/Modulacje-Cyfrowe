@@ -1,0 +1,6 @@
+﻿X0100
+[img]62.jpg[/img]
+Zapewnienia koherencji w procesie demodulacji. 
+Zapewnienia synchronizacji symbolowej 
+Zapewnienia taktowania bitowego. 
+Zapewnienia synchronizacji w.cz. 

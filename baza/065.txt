@@ -1,0 +1,6 @@
+﻿X1000
+[img]65.jpg[/img]
+Zapewnienia synchronizacji w.cz.
+Zapewnienia synchronizacji symbolowej.
+Zapewnienia synchronizacji protokołu transmisji danych.
+Zapewnienia taktowania bitowego.

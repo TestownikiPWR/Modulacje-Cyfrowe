@@ -1,0 +1,6 @@
+﻿X0100
+Przy pomocy modulatora IQ można generować następujące sygnały (wskazać właściwą grupę): 
+PSK, FSK, ASK
+PSK, QAM, PAM 
+PSK i FSK
+PSK, QAM, ASK 

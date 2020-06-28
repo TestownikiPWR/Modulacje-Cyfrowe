@@ -1,0 +1,9 @@
+﻿X0001
+Wydłużanie symboli przy niezmiennych warunkach transmisji cyfrowej powoduje:
+Polepszenie jakości transmisji w przypadku niektórych rodzajów modulacji (np.
+przy kluczowaniu częstotliwości).
+Pogorszenie jakości transmisji bez względu na rodzaj modulacji. 
+Polepszenie jakości transmisji w przypadku większości rodzajów modulacji (np.
+PAM, PSK, ASK, itp.). 
+Zmianę parametrów widmowych sygnału zmodulowanego bez wpływu na
+jakość transmisji.

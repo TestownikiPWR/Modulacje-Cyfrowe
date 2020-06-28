@@ -1,0 +1,6 @@
+﻿X0100
+O wartości prawdopodobieństwa błędnej decyzji w przypadku koherentnej demodulacji zbioru sygnałów decyduje: 
+Stosunek energii sygnałów do widmowej gęstości mocy szumu. 
+Odległość między sygnałami oraz poziom zakłóceń.
+Odległość między sygnałami.  
+Wyłącznie poziom zakłóceń. 

@@ -1,0 +1,6 @@
+﻿X0001
+[img]63.jpg[/img]
+M-PSK, M-PAM, M-QAM  
+Jedynie M-QAM
+M-PSK, M-ASK, M-FSK
+M-PSK, M-ASK, M-QAM 

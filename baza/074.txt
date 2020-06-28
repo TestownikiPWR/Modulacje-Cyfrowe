@@ -1,0 +1,6 @@
+﻿X1000
+Na wyjściu mieszacza zasilanego dwoma sygnałami harmonicznymi o częstotliwościach f1 i f2 otrzymujemy:  
+Sygnał harmoniczny o częstotliwości f1-f2 i f1+f2
+Sygnał harmoniczny o częstotliwości f1+f2 
+Sygnał z kluczowaną fazą 
+Sygnał z kluczowaną częstotliwością 

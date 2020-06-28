@@ -1,0 +1,6 @@
+﻿X0001
+[img]64.jpg[/img]
+2-PSK lub M-ASK
+2-PSK lub M-PAM
+M-PAM
+M-PSK 
