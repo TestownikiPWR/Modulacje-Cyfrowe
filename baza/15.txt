@@ -1,6 +1,0 @@
-X1000
-15. Zastosowanie filtru gaussowskiego na wejœciu modulatora MSK (modulacja GMSK) powoduje:
-zwiêkszenie BER
-zmniejszenie BER
-wartosc BER nie zmienia sie
-¿adna z powy¿szych
