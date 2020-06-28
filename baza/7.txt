@@ -1,5 +1,0 @@
-X100
-7. Brak koherentnoœci w procesie demodulacji powoduje:
-zwiêkszenie P(e)
-zmiejszenie P(e)
-¿adna z powy¿szych
