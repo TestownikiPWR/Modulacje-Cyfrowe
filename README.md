@@ -1,4 +1,4 @@
-WAŻNE!!! CZYTAĆ!!!
+# WAŻNE!!! CZYTAĆ!!!
 
 # Modulacje-Cyfrowe
 Piotr Słobodzian
